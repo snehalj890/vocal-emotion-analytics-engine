@@ -1,0 +1,14 @@
+{
+    "test_accuracy": 0.1388888955116272,
+    "test_loss": 6.176890850067139,
+    "emotion_names": [
+        "neutral",
+        "calm",
+        "happy",
+        "sad",
+        "angry",
+        "fearful",
+        "disgust",
+        "surprised"
+    ]
+}

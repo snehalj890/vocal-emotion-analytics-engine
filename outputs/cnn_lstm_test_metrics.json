@@ -1,0 +1,15 @@
+{
+    "model": "CNN-LSTM",
+    "test_accuracy": 0.43888887763023376,
+    "test_loss": 1.5016721487045288,
+    "emotion_names": [
+        "neutral",
+        "calm",
+        "happy",
+        "sad",
+        "angry",
+        "fearful",
+        "disgust",
+        "surprised"
+    ]
+}

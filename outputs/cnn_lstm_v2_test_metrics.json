@@ -1,0 +1,18 @@
+{
+    "model": "CNN-LSTM Version 2 with SpecAugment",
+    "test_accuracy": 0.49444442987442017,
+    "test_loss": 1.4276682138442993,
+    "macro_f1": 0.4633360079391667,
+    "weighted_f1": 0.48755840846844445,
+    "emotion_names": [
+        "neutral",
+        "calm",
+        "happy",
+        "sad",
+        "angry",
+        "fearful",
+        "disgust",
+        "surprised"
+    ],
+    "training_samples_after_augmentation": 3240
+}
